@@ -25,3 +25,5 @@ INSERT INTO doces(id_categoria,nome_doce) VALUES
 (2, "Torta de Maçã");
 
 SELECT * FROM doces;
+
+SELECT * FROM categoria;
